@@ -1,0 +1,1 @@
+# hw_battery_resist-16.06.24-
