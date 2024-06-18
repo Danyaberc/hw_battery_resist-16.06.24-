@@ -19,7 +19,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    opacity: 5%;
+  
 }
 .btn__dicr{
     position:absolute;
@@ -32,7 +32,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-     opacity: 5%;
+    
 }
 .result{
     width: 207px;
